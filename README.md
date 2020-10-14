@@ -18,7 +18,7 @@ yarn start
 
 If you're using Npm, install the dependencies using the following command:
 ```
-npm start
+npm install
 ```
 Then run application using:
 
